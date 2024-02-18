@@ -1,2 +1,2 @@
 external_templates:
-  - file: ../../anon_fawkes/overlays/stream_on.yml
+  - repos: /anon_fawkes/overlays/stream_on.yml
